@@ -1,3 +1,13 @@
+/*Problema: Autos de Carrera
+56
+• En una prueba, un piloto tiene que completar 4
+vueltas
+• Se necesita un programa que permita ingresar
+por teclado el tiempo de cada vuelta
+• El programa debe retornar el tiempo total y el
+promedio de vuelta*/
+
+
 let dato1 = document.getElementById("dato1");
 let dato2 = document.getElementById("dato2");
 let dato3 = document.getElementById("dato3");
